@@ -5,6 +5,7 @@
   font-size: 32px;
   font-family: sans-serif;
   color: #fff;
+  text-transform: uppercase;
 }
 
 .main {
@@ -14,5 +15,15 @@
   color: #fff;
   font-family: sans-serif;
   text-align: center;
+  text-transform: uppercase;
+}
+
+.footer {
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(187, 179, 179);
+  font-size: 32px;
+  font-family: sans-serif;
+  color: #fff;
   text-transform: uppercase;
 }
